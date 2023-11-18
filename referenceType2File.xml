@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>174c0f628c7d3e44e9d9698a45fcf1aa</guid>
+    <fileName>Assets/Plugins/SimpleInput/Editor/AxisInputDrawer.cs</fileName>
+    <timeStamp>2020-10-12T17:45:07-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eca58b1bb7542da4885acdcc10d56975</guid>
+    <fileName>Assets/Plugins/SimpleInput/Editor/BaseInputDrawer.cs</fileName>
+    <timeStamp>2020-10-12T17:45:31-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>807954391627078488b7b2355ae0c66a</guid>
+    <fileName>Assets/Plugins/SimpleInput/Editor/ButtonInputDrawer.cs</fileName>
+    <timeStamp>2020-10-12T17:45:19-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>86d29f9c9e5e8484d9cb45830a3feab0</guid>
+    <fileName>Assets/Plugins/SimpleInput/Editor/KeyInputDrawer.cs</fileName>
+    <timeStamp>2020-10-12T17:45:20-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a109724b706e596419d6a7ff4c2a9e46</guid>
+    <fileName>Assets/Plugins/SimpleInput/Editor/MouseButtonInputDrawer.cs</fileName>
+    <timeStamp>2020-10-12T17:45:23-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d9dd336b25bf97b4abc19bbfb79b9c2a</guid>
+    <fileName>Assets/Plugins/SimpleInput/Example/ExamplePlayerController.cs</fileName>
+    <timeStamp>2020-10-12T17:45:27-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5e9007fbfcf04994b88c10e02cbc4229</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/SimpleInput.cs</fileName>
+    <timeStamp>2020-10-12T17:45:15-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>424a57205c2ff3c47aa53837c12b836b</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/SimpleInputHelper.cs</fileName>
+    <timeStamp>2020-10-12T17:45:12-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a974ad01c9fdb5e408702ee48afc38e9</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputKeyboard.cs</fileName>
+    <timeStamp>2020-10-12T17:45:23-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>22399be9592f58241ac1138672496a31</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputMouse.cs</fileName>
+    <timeStamp>2020-10-12T17:45:08-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>842273f6b4c7e2c499cb78e039baf07c</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputMoveGesture.cs</fileName>
+    <timeStamp>2020-10-12T17:45:20-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>831335ccd0bb25d44b6d708219144b29</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputPinchGesture.cs</fileName>
+    <timeStamp>2020-10-12T17:45:19-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7093f913c66112149bf397416dfed85f</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputRotateGesture.cs</fileName>
+    <timeStamp>2020-10-12T17:45:18-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32ed8d180db436746892bf97b4f0f333</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputSwipeGesture.cs</fileName>
+    <timeStamp>2020-10-12T17:45:11-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fda952153dba3064ab80a62889c1583f</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputUI.cs</fileName>
+    <timeStamp>2020-10-12T17:45:33-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a70dc776bc37f748a08a41f672a58e6</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputUIArrows.cs</fileName>
+    <timeStamp>2020-10-12T17:45:08-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>98005cf4195d9954cb478595517f0d7c</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/Dpad.cs</fileName>
+    <timeStamp>2020-10-12T17:45:22-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1d42b387efc83be49900b546e4052e28</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/Joystick.cs</fileName>
+    <timeStamp>2020-10-12T17:45:08-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87a2186a42ce6a34ba7023f89a01611f</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/SteeringWheel.cs</fileName>
+    <timeStamp>2020-10-12T17:45:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d24ddbdc4c85dc043aba5a6335f816f7</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/AxisInputs/Touchpad.cs</fileName>
+    <timeStamp>2020-10-12T17:45:27-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>56571356d33665b4d8bbc4977d8a54b5</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/ButtonInputs/ButtonInputKeyboard.cs</fileName>
+    <timeStamp>2020-10-12T17:45:15-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8a90681e07d4e3c47a110a9555eea57c</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/ButtonInputs/ButtonInputSwipeGesture.cs</fileName>
+    <timeStamp>2020-10-12T17:45:21-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>995f34434fbe45d46aacf4e120446279</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/ButtonInputs/ButtonInputUI.cs</fileName>
+    <timeStamp>2020-10-12T17:45:22-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c85f310d3f84a214385ae2981b6709c1</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/BaseInput.cs</fileName>
+    <timeStamp>2020-10-12T17:45:25-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0383241056b2aad4fac1e24d353a52e3</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/ISimpleInputDraggable.cs</fileName>
+    <timeStamp>2020-10-12T17:45:05-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>542cc28fca7a01e4c94bec265ff28589</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/ISimpleInputDraggableMultiTouch.cs</fileName>
+    <timeStamp>2020-10-12T17:45:15-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c9542c931e1c82442a58750f0f44fcd8</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/NonDrawingGraphic.cs</fileName>
+    <timeStamp>2020-10-12T17:45:25-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c170c3cabf2fd14c9598702d366a1e8</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/SelectivePointerInput.cs</fileName>
+    <timeStamp>2020-10-12T17:45:13-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b52dca7e30160fe448d7cd2c412efecc</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/SimpleInputDragListener.cs</fileName>
+    <timeStamp>2020-10-12T17:45:24-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd2b1b62768d1834a9c1821a5c04c594</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/SimpleInputMultiDragListener.cs</fileName>
+    <timeStamp>2020-10-12T17:45:32-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68bf9be257e135b4da6233529c2a1cf6</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/SimpleInputUtils.cs</fileName>
+    <timeStamp>2020-10-12T17:45:17-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>256e0728f7e166040a2cb2b659e0c303</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/SwipeGestureBase.cs</fileName>
+    <timeStamp>2020-10-12T17:45:09-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>40e62a17d0b841d41a2b6db644315048</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/Core/UnityInputProvider.cs</fileName>
+    <timeStamp>2020-10-12T17:45:12-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc14663d8f479984a8dc301c723eaf36</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/KeyInputs/KeyInputKeyboard.cs</fileName>
+    <timeStamp>2020-10-12T17:45:26-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2d07eac9db8e46d4d862e4ba985d21ca</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/KeyInputs/KeyInputSwipeGesture.cs</fileName>
+    <timeStamp>2020-10-12T17:45:09-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fc8d2f3cf1118bf4ab1c5f540a08bbd2</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/KeyInputs/KeyInputUI.cs</fileName>
+    <timeStamp>2020-10-12T17:45:32-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5409ad7137422ce48b283ed417156c5b</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs/MouseButtonInputKeyboard.cs</fileName>
+    <timeStamp>2020-10-12T17:45:14-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5156ba8442da13c4682bc661c9667350</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs/MouseButtonInputSwipeGesture.cs</fileName>
+    <timeStamp>2020-10-12T17:45:13-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e4107d86bdaba964b8bcaf073e647b74</guid>
+    <fileName>Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs/MouseButtonInputUI.cs</fileName>
+    <timeStamp>2020-10-12T17:45:30-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d4f7e84798d81479daa12fd128b81d9c</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-11-18T12:57:17-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>51f08cbc95375408d8b742d85942e2c5</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-11-18T12:57:17-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ad51a52896784b47a556b3e2e321260</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-11-18T12:57:17-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>47a4767d10da84522a5c088effc4ebb3</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-11-18T12:57:17-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>622158a298167425ab9634f99781d8a9</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-11-18T12:57:17-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5782aa68ce434e9b8343958fc10a420</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-11-18T12:57:17-05:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a37d705c8e9115e439ec799186182634</guid>
+    <fileName>Assets/Joystick Pack/Examples/JoystickPlayerExample.cs</fileName>
+    <timeStamp>2019-03-24T10:21:04-04:00</timeStamp>
+    <typeFullName>
+      <string>JoystickPlayerExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3d73bf03f88f371469fd7b43fc97d77e</guid>
+    <fileName>Assets/Joystick Pack/Examples/JoystickSetterExample.cs</fileName>
+    <timeStamp>2019-03-24T10:20:55-04:00</timeStamp>
+    <typeFullName>
+      <string>JoystickSetterExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b9fca4100a7477741b3973b4ff2c405f</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Base/Joystick.cs</fileName>
+    <timeStamp>2019-03-24T10:21:06-04:00</timeStamp>
+    <typeFullName>
+      <string>Joystick</string>
+      <string>AxisOptions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52071c88a467b46438b3cbf159bf988b</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs</fileName>
+    <timeStamp>2019-03-24T10:20:57-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>614d06243900d764f9c50b4da2c950a3</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs</fileName>
+    <timeStamp>2019-03-24T10:21:00-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d4b2b0d911a01a64ebfca9918e2b90b4</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs</fileName>
+    <timeStamp>2019-03-24T10:21:09-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>58b5a2db95af76c4c9d4116a09ec3697</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs</fileName>
+    <timeStamp>2019-03-24T10:20:58-04:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba0d0e7a039f526499c356a3c5cd6d3f</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs</fileName>
+    <timeStamp>2019-03-24T10:21:07-04:00</timeStamp>
+    <typeFullName>
+      <string>DynamicJoystick</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45977bbae16431c46a013576a1aea384</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs</fileName>
+    <timeStamp>2019-03-24T10:20:56-04:00</timeStamp>
+    <typeFullName>
+      <string>FixedJoystick</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7a47f546fc70ec8428172694e78e4288</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs</fileName>
+    <timeStamp>2019-03-24T10:21:02-04:00</timeStamp>
+    <typeFullName>
+      <string>FloatingJoystick</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>42844a4fccbd54746b90cade4ff70f73</guid>
+    <fileName>Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs</fileName>
+    <timeStamp>2019-03-24T10:20:55-04:00</timeStamp>
+    <typeFullName>
+      <string>VariableJoystick</string>
+      <string>JoystickType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f8efc9202d1a14f53abae685c674c27b</guid>
+    <fileName>Assets/Scripts/AudioManager.cs</fileName>
+    <timeStamp>2021-07-29T15:17:49-04:00</timeStamp>
+    <typeFullName>
+      <string>AudioManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a4caa36a18114bf3ba381d484678fea</guid>
+    <fileName>Assets/Scripts/Bullet.cs</fileName>
+    <timeStamp>2021-07-20T21:45:53-04:00</timeStamp>
+    <typeFullName>
+      <string>Bullet</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8e97c92da5dbd42239f77d88920c5786</guid>
+    <fileName>Assets/Scripts/DamageManager.cs</fileName>
+    <timeStamp>2021-07-04T13:53:40-04:00</timeStamp>
+    <typeFullName>
+      <string>DamageManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0844e31ca055949d4b885e006da9d739</guid>
+    <fileName>Assets/Scripts/GameManagement.cs</fileName>
+    <timeStamp>2021-07-29T15:11:49-04:00</timeStamp>
+    <typeFullName>
+      <string>GameManagement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>741ad48028d9e4df8958ecccadbc1872</guid>
+    <fileName>Assets/Scripts/GunMovement.cs</fileName>
+    <timeStamp>2021-07-28T17:45:19-04:00</timeStamp>
+    <typeFullName>
+      <string>GunMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5563aa9bc14484e60928ba899a8af894</guid>
+    <fileName>Assets/Scripts/LevelLoader.cs</fileName>
+    <timeStamp>2023-11-18T12:50:58-05:00</timeStamp>
+    <typeFullName>
+      <string>LevelLoader</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66f1e49f5f00b47838abff3b32c5922e</guid>
+    <fileName>Assets/Scripts/Movement6D.cs</fileName>
+    <timeStamp>2021-07-13T19:52:26-04:00</timeStamp>
+    <typeFullName>
+      <string>Movement6D</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5ea65f927cbe74df7a53fec6c5556962</guid>
+    <fileName>Assets/Scripts/PlayerMovement.cs</fileName>
+    <timeStamp>2021-07-14T15:20:10-04:00</timeStamp>
+    <typeFullName>
+      <string>PlayerMovement</string>
+      <string>PlayerMovement2</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e58f7503d6383403aa2d0df3564ec906</guid>
+    <fileName>Assets/Scripts/PlayerMovement2.cs</fileName>
+    <timeStamp>2021-07-29T14:59:35-04:00</timeStamp>
+    <typeFullName>
+      <string>PlayerMovement2</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f76b92cfec58444f8adba489f75c9f02</guid>
+    <fileName>Assets/Scripts/Restart.cs</fileName>
+    <timeStamp>2021-07-21T23:01:12-04:00</timeStamp>
+    <typeFullName>
+      <string>Restart</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>89bccc68772a24dbd96ee9b4b1d6bd6c</guid>
+    <fileName>Assets/Scripts/Shooting.cs</fileName>
+    <timeStamp>2021-07-29T15:19:35-04:00</timeStamp>
+    <typeFullName>
+      <string>Shooting</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>487ce3fed900243dc89911c87527dcf9</guid>
+    <fileName>Assets/Scripts/Sound.cs</fileName>
+    <timeStamp>2021-07-29T13:11:09-04:00</timeStamp>
+    <typeFullName>
+      <string>Sound</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
