@@ -18,7 +18,7 @@
   <img src="images/screenshot2.png" width="350" title="ricochet">
 </p>
 
-This is a 2-player iOS party game that was published to the AppStore in 2021. In this turn-based game, every player fires a bullet that will ricochet through the saloon. The goal is simple, be the last one standing in the saloon !
+This is a 2-player iOS party game that was published to the AppStore in 2021. In this turn-based game, every player fires a bullet that will ricochet through the saloon. The goal is simple, be the last one standing in the saloon!
 
 This is a memory game, bullets will bounce exactly once before sticking to the second surface. They are then freezed in time. Every time a player shoots a new bullet, his past bullets (frozen in time) will continue their trajectory for one more bounce before freezing again.
 
