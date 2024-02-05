@@ -14,8 +14,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screenshot1][product-screenshot1]]
-[![Screenshot2][product-screenshot2]]
+<p align="center">
+  <img src="images/screenshot2.png" width="350" title="ricochet">
+</p>
 
 This is a 2-player iOS party game that was published to the AppStore in 2021. In this turn-based game, every player fires a bullet that will ricochet through the saloon. The goal is simple, be the last one standing in the saloon !
 
@@ -56,5 +57,3 @@ The game is not longer available on the AppStore because of how pricy a Apple De
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/edouard-perrault-laliberte/
-[product-screenshot1]: images/screenshot1.png
-[product-screenshot2]: images/screenshot2.png
