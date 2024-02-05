@@ -1,21 +1,60 @@
-# Ricochet
+<a name="readme-top"></a>
 
-Unity iPad/iPhone 2-player game.
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-Goal of the game :
-> Be the last one standing!
+<!-- PROJECT TITLE -->
+<div align="center">
+<h3 align="center">Ricochet</h3>
+  <p align="center">
+    Multiplayer iOS Game
+    <br />
+  </p>
+</div>
 
-This is a turn based game, each turn players can perform 3 actions :
->  1 - Move around using the joystick
-> 
->  2 - Aim their pistol by draging their finger
-> 
->  3 - Shoot a bullet by pressing the shoot button next to the joystick
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-What makes this game interesting :
-> This is a memory game, bullets will bounce on exactly 1 surface before sticking to the second surface. They are then freezed in time. Every time a player shoots a new bullet, his bullets that were frozen in time will continue their trajectory for 1 more bounce before freezing again.
+[![Screenshot1][product-screenshot1]]
+[![Screenshot2][product-screenshot2]]
 
-> To enforce this dynamic, if a player kills the other with a bullet that was never frozen in time, he loses the game.
-> 
-Unity Version :
-> 2020.3.10f1
+This is a 2-player iOS party game that was published to the AppStore in 2021. In this turn-based game, every player fires a bullet that will ricochet through the saloon. The goal is simple, be the last one standing in the saloon !
+
+This is a memory game, bullets will bounce exactly once before sticking to the second surface. They are then freezed in time. Every time a player shoots a new bullet, his past bullets (frozen in time) will continue their trajectory for one more bounce before freezing again.
+
+To enforce this dynamic, if Player A hits Player B with a bullet that was never frozen in time, he loses the game.
+
+
+### Built With
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+The game is not longer available on the AppStore because of how pricy a Apple Developer License is every year. The only way to play it now is to download the source code and to build it using Unity.
+
+### Prerequisites
+
+
+* Unity 2020.3.10f1
+
+
+### Installation
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/e-p-l/ricochet.git
+   ```
+2. Open the project using Unity Hub
+
+3. Build the project and enjoy :)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/edouard-perrault-laliberte/
+[product-screenshot1]: images/screenshot1.png
+[product-screenshot2]: images/screenshot2.png
